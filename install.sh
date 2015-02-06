@@ -14,7 +14,7 @@ chsh -s /bin/zsh
 sudo apt-get install gnome-shell
 
 # install JDK
-
+sudo apt-get install openjdk-7-jdk
 # install tomcat
 
 # Apache benchmark
