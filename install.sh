@@ -16,3 +16,6 @@ sudo apt-get install gnome-shell
 # install JDK
 
 # install tomcat
+
+# Apache benchmark
+sudo apt-get install apache2-utils
