@@ -12,3 +12,7 @@ chsh -s /bin/zsh
 
 # install gnome
 sudo apt-get install gnome-shell
+
+# install JDK
+
+# install tomcat
