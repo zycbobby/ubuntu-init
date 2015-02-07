@@ -15,3 +15,11 @@ sudo apt-get install gnome-shell gnome-tweak
 
 #install docker
 sudo apt-get install docker.io
+
+
+# install JDK
+sudo apt-get install openjdk-7-jdk
+# install tomcat
+
+# Apache benchmark
+sudo apt-get install apache2-utils
