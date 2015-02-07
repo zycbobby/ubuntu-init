@@ -12,3 +12,6 @@ chsh -s /bin/zsh
 
 # install gnome
 sudo apt-get install gnome-shell
+
+#install docker
+sudo apt-get install docker.io
