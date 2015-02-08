@@ -19,6 +19,9 @@ sudo apt-get install docker.io
 
 # install JDK
 sudo apt-get install openjdk-7-jdk
+# install maven
+sudo apt-get install maven
+
 # install tomcat
 
 # Apache benchmark
