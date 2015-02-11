@@ -4,14 +4,14 @@ sudo cp ./resources/sources.list /etc/apt/sources.list
 sudo apt-get update
 
 sudo apt-get install -y terminator zsh
-cp ./resources/terminator.config ~/.config/terminator/config
+#cp ./resources/terminator.config ~/.config/terminator/config
 
 wget --no-check-certificate http://install.ohmyz.sh -O - | sh
 
 chsh -s /bin/zsh
 
 # install gnome
-sudo apt-get install gnome-shell gnome-tweak
+sudo apt-get install gnome-shell gnome-tweak-tool
 
 #install docker
 sudo apt-get install docker.io
