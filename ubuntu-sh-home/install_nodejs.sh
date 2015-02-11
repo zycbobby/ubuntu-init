@@ -8,6 +8,8 @@ tar -xvf node-v0.12.0.tar.gz
 
 cd node-v0.12.0
 
+./configure
+
 make
 
 sudo make install
