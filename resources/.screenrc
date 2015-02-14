@@ -1,0 +1,8 @@
+startup_message off
+altscreen on
+bind ',' prev
+bind '.' next
+
+#put status bar at the bottom with machine, window list, and time
+hardstatus alwayslastline
+hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %m-%d %{W}%c %{g}]'
