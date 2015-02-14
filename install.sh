@@ -35,3 +35,7 @@ sudo cp ./resources/$TOMCAT_USER_FILENAME $TOMCAT_CONF_HOME+$TOMCAT_USER_FILENAM
 # install maven
 # Apache benchmark
 sudo apt-get install apache2-utils
+
+# install screen
+sudo apt-get install screen
+cp ./resources/.screenrc ~/.screenrc
