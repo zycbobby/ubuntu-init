@@ -11,7 +11,7 @@ wget --no-check-certificate http://install.ohmyz.sh -O - | sh
 chsh -s /bin/zsh
 
 # install gnome
-sudo apt-get install gnome-shell gnome-tweak-tool
+sudo apt-get install gnome-shell gnome-tweak-tool tint2
 
 # sysv-rc-conf
 sudo apt-get install sysv-rc-conf
