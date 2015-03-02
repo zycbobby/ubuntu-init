@@ -19,7 +19,6 @@ sudo apt-get install sysv-rc-conf
 #install docker
 sudo apt-get install docker.io
 
-
 # install JDK
 sudo apt-get install openjdk-7-jdk
 # install maven
@@ -32,7 +31,6 @@ TOMCAT_USER_FILENAME='tomcat-users.xml'
 sudo cp $TOMCAT_CONF_HOME+$TOMCAT_USER_FILENAME $TOMCAT_CONF_HOME+$TOMCAT_USER_FILENAME+'.bak'
 sudo cp ./resources/$TOMCAT_USER_FILENAME $TOMCAT_CONF_HOME+$TOMCAT_USER_FILENAME
 
-# install maven
 # Apache benchmark
 sudo apt-get install apache2-utils
 
