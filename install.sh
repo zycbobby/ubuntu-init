@@ -3,7 +3,7 @@ sudo cp ./resources/sources.list /etc/apt/sources.list
 
 sudo apt-get update
 
-sudo apt-get install -y terminator zsh
+sudo apt-get install -y terminator zsh curl
 #cp ./resources/terminator.config ~/.config/terminator/config
 
 wget --no-check-certificate http://install.ohmyz.sh -O - | sh
