@@ -35,5 +35,8 @@ sudo cp ./resources/$TOMCAT_USER_FILENAME $TOMCAT_CONF_HOME+$TOMCAT_USER_FILENAM
 sudo apt-get install apache2-utils
 
 # install screen
-sudo apt-get install screen
-cp ./resources/.screenrc ~/.screenrc
+# sudo apt-get install screen
+# cp ./resources/.screenrc ~/.screenrc
+
+# Install tmux
+sudo apt-get install tmux
