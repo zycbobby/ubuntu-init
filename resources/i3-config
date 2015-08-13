@@ -158,3 +158,5 @@ bar {
 # Lock Screen 
 bindsym $mod+Shift+l exec i3lock -f
 
+focus_follows_mouse no
+
