@@ -13,6 +13,10 @@ chsh -s /bin/zsh
 # install gnome
 sudo apt-get install gnome-shell gnome-tweak-tool tint2
 
+# install i3 ref: https://i3wm.org/docs/repositories.html
+apt-get install i3
+
+
 # sysv-rc-conf
 sudo apt-get install sysv-rc-conf
 
