@@ -44,3 +44,6 @@ sudo apt-get install apache2-utils
 
 # Install tmux
 sudo apt-get install tmux
+
+# install sunpinyin
+
