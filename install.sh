@@ -45,5 +45,8 @@ sudo apt-get install apache2-utils
 # Install tmux
 sudo apt-get install tmux
 
-# install sunpinyin
+# install fcitx-sunpinyin
 
+
+# install aria2c, it was a good download tool in terminal
+sudo apt-get instal aria2c
