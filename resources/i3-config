@@ -159,5 +159,14 @@ bar {
 bindsym $mod+Shift+l exec i3lock -f
 
 focus_follows_mouse no
-bindsym Mod4+comma exec amixer set Master -q 5%-
-bindsym Mod4+period exec amixer set Master -q 5%+
+
+
+
+# About volume
+#
+# install  sudo apt-get install pavucontrol instead
+#
+#
+#bindsym Mod4+comma exec amixer set Master -q 5%-
+#bindsym Mod4+period exec amixer set Master -q 5%+
+#
