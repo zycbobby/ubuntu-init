@@ -47,6 +47,9 @@ sudo apt-get install tmux
 
 # install fcitx-sunpinyin
 
+# how to install:  http://freetstar.com/ubuntu-most-use-friendly-fcitx-sunpinyin/
+# About bug of yue http://forum.ubuntu.org.cn/viewtopic.php?f=180&t=457956&sid=b0980e8a6d2dfd4f0c33c4b562b5cb95&start=15
+
 
 # install aria2c, it was a good download tool in terminal
 sudo apt-get instal aria2c
