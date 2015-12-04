@@ -53,3 +53,6 @@ sudo apt-get install tmux
 
 # install aria2c, it was a good download tool in terminal
 sudo apt-get instal aria2c
+
+# install galance
+sudo pip install Glances
