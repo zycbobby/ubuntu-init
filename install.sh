@@ -54,5 +54,5 @@ sudo apt-get install tmux
 # install aria2c, it was a good download tool in terminal
 sudo apt-get instal aria2c
 
-# install galance
+# install [galance](http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu) 
 sudo pip install Glances
