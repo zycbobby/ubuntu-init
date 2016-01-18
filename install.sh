@@ -60,3 +60,6 @@ sudo pip install Glances
 # fuzzy finder
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+
+# fasd
+git clone https://github.com/clvv/fasd
