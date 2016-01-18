@@ -56,3 +56,7 @@ sudo apt-get instal aria2c
 
 # install [galance](http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu) 
 sudo pip install Glances
+
+# fuzzy finder
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
